@@ -20,7 +20,7 @@
 .wy-menu-vertical li ul li a,
 .wy-menu-vertical li.current a,
 .wy-menu-vertical a {
-  color: #534dc6;
+  color: #ffffff;
 }
 
 .wy-menu-vertical li.toctree-l2.current>a:hover,
@@ -28,7 +28,7 @@
 .wy-menu-vertical li.toctree-l3.current li.toctree-l4>a:hover,
 .wy-menu-vertical li.current a:hover {
   background: #404040;
-  color: #534dc6;
+  color: #ffffff;
 }
 
 .wy-menu-vertical a:hover {
@@ -41,7 +41,7 @@
 }
 
 .wy-side-nav-search {
-  background-color: black;
+  background-color: #463de5;
 }
 
 .wy-side-nav-search>div.version {
@@ -50,7 +50,7 @@
 
 .wy-menu-vertical header,
 .wy-menu-vertical p.caption {
-  color: #534dc6;
+  color: #ffffff;
 }
 
 .wy-menu-vertical li.on a,
@@ -63,7 +63,7 @@
 
 .wy-menu-vertical ul,
 .wy-side-scroll {
-  background-color: black;
+  background-color: #463de5;
 }
 
 .wy-menu-vertical li.toctree-l2.current>a,
@@ -76,15 +76,15 @@
 /* Mobile */
 
 .wy-nav-top {
-  background: black;
+  background: #463de5;
 }
 
 .wy-nav-top a {
-  color: #534dc6;
+  color: #ffffff;
 }
 
 .wy-nav-top i {
-  color: #534dc6;
+  color: #ffffff;
 }
 
 .wy-breadcrumbs {

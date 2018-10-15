@@ -16,8 +16,8 @@
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background-color: black;
-  color: #534dc6;
+  background-color: #463de5;
+  color: #ffffff;
   display: flex;
 }
 
@@ -29,7 +29,7 @@
 }
 
 #explore-links a {
-  color: #534dc6;
+  color: #ffffff;
 }
 
 #explore-links a:hover {
@@ -45,7 +45,7 @@
 #explore-links ul { /* all lists... */
   display: flex;
   flex: 1;
-  color: #534dc6;
+  color: #ffffff;
   transition: .3s;
 
 }
@@ -68,8 +68,8 @@
   left: 0; /* align them to the left of the parent list item  - necessary for some older browsers */
   top: 100%; /* align them to the bottom of the parent list item - again only necessary for older browsers */
   display: none; /* hide 'em */
-  color: #534dc6;
-  background-color: black;
+  color: #ffffff;
+  background-color: #463de5;
 }
 
 #explore-links li:hover ul { /* when list items are hovered over, do this to lists contained within them... */

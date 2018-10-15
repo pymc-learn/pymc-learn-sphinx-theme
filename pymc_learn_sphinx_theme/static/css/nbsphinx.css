@@ -14,12 +14,12 @@ div.nbinput div.prompt, div.nboutput div.prompt {
   border: none;
   border-collapse: collapse;
   border-spacing: 0;
-  color: black;
+  color: #463de5;
   table-layout: fixed;
 }
 
 .output_area thead {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #463de5;
   vertical-align: bottom;
 }
 
