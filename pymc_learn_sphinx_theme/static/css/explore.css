@@ -33,7 +33,7 @@
 }
 
 #explore-links a:hover {
-  background-color: #343131;
+  background-color: #FDA061;
 }
 
 @media (max-width: 768px) {
@@ -77,5 +77,5 @@
 }
 
 #explore-links ul li:hover { /* when list items are hovered over, do this to lists contained within them... */
-  background-color: #343131;
+  background-color: #FDA061;
 }

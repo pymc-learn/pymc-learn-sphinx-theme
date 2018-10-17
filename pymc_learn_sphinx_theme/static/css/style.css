@@ -27,12 +27,12 @@
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a:hover,
 .wy-menu-vertical li.toctree-l3.current li.toctree-l4>a:hover,
 .wy-menu-vertical li.current a:hover {
-  background: #404040;
+  background: #FDA061;
   color: #ffffff;
 }
 
 .wy-menu-vertical a:hover {
-  background: #303030;
+  background: #FDA061;
 }
 
 .wy-side-nav-search>a img.logo,
@@ -55,7 +55,7 @@
 
 .wy-menu-vertical li.on a,
 .wy-menu-vertical li.current>a {
-  background: #303030;
+  background: #FDA061;
   border-top: none;
   border-bottom: none;
 }
@@ -70,7 +70,7 @@
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a,
 .wy-menu-vertical li.toctree-l3.current li.toctree-l4>a,
 .wy-menu-vertical li ul {
-  background-color: #303030;
+  background-color: #FDA061;
 }
 
 /* Mobile */
